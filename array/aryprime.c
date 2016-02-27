@@ -1,3 +1,5 @@
+//count Prime number from an array
+
 #include<stdio.h>
 main()
 {

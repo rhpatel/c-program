@@ -1,3 +1,4 @@
+//passing 2d array to the pointer to an array
 #include<stdio.h>
 void print(int (*)[],int, int);
 main()
