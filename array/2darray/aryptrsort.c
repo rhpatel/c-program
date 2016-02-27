@@ -1,3 +1,4 @@
+//Sorting of an array using Pointer
 #include<stdio.h>
 main()
 {

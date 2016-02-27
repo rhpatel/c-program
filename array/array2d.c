@@ -1,3 +1,4 @@
+//2d array print
 #include<stdio.h>
 main()
 {
