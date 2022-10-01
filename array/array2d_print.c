@@ -1,10 +1,10 @@
 #include<stdio.h>
-main()
+int main()
 {
 int b[2][3]={
-             {1,2,3,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9},
+             {1,2,3},
              {4,5,6}
-              };
+            };
 int i,j,r,c,*p;
 r=sizeof(b)/sizeof(b[0]);
 c=sizeof(b[0])/sizeof(b[0][0]);
@@ -17,6 +17,7 @@ printf("%d ",b[i][j]);
 
 printf("\n");
 }
+return 0;
 }
 
 
